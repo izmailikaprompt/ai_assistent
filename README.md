@@ -1,5 +1,11 @@
 # AI Ассистент для компании по продаже услуг (экскурсий и мастер-классов)
 
+Ссылки на скриншоты диалогов:
+https://github.com/izmailikaprompt/ai_assistent/blob/main/%20.png?raw=true
+https://github.com/izmailikaprompt/ai_assistent/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-03-22%20%D0%B2%2015.15.45.png?raw=true](https://github.com/izmailikaprompt/ai_assistent/blob/main/%20.png?raw=true)
+https://github.com/izmailikaprompt/ai_assistent/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-03-22%20%D0%B2%2015.16.06.png?raw=true
+(https://github.com/izmailikaprompt/ai_assistent/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-03-22%20%D0%B2%2015.16.54.png?raw=true)
+
 ## Описание проекта
 
 Проект представляет собой интеллектуального ассистента, созданного для автоматизации взаимодействия с клиентами компании, специализирующейся на продаже экскурсий и мастер-классов. Ассистент способен вести осмысленный диалог, отвечать на вопросы клиентов, предоставлять информацию из базы данных и записывать клиентов на встречи, добавляя их в Google Календарь.
